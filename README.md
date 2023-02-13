@@ -23,6 +23,8 @@ As any young internet-addict man, I love playing computer games and there are on
 <!-- GITHUB STATS:
  -->
 
+<img src="https://github-readme-stats.vercel.app/api?username=Falcion&bg_color=30,e96443,904e95&title_color=fff&custom_title=Git%20activity%20(Falcion):&text_color=fff&include_all_commits=true"/>
+
 <picture align="center">
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=Falcion&bg_color=30,e96443,904e95&title_color=fff&custom_title=Git%20activity%20(Falcion):&text_color=fff&include_all_commits=true"
