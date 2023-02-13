@@ -23,7 +23,7 @@ As any young internet-addict man, I love playing computer games and there are on
 <!-- GITHUB STATS:
  -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Falcion&bg_color=30,e96443,904e95&title_color=fff&custom_title=Git%20activity%20(Falcion):&text_color=fff&include_all_commits=true"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Falcion&bg_color=30,e96443,904e95&title_color=fff&custom_title=Languages%20top:&text_color=fff&include_all_commits=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Falcion&bg_color=30,e96443,904e95&title_color=fff&custom_title=Git%20activity%20(Falcion):&text_color=fff&include_all_commits=true&hide_border=true"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Falcion&bg_color=30,e96443,904e95&title_color=fff&custom_title=Languages%20top:&text_color=fff&include_all_commits=true&hide_border=true">
 
 <!-- MARKDOWN HYPERLINKS AND IMAGES 
  * We are using these blocks, because of them, code of
