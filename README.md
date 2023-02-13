@@ -14,6 +14,10 @@ As any young internet-addict man, I love playing computer games and there are on
 
 ## Experienced in
 
+- ![TYPESCRIPT]
+- ![JAVASCRIPT]
+- ![DOTNET]
+
 <!-- MARKDOWN HYPERLINKS AND IMAGES 
  * We are using these blocks, because of them, code of
  * this README would be more beautiful and readable.
@@ -21,9 +25,11 @@ As any young internet-addict man, I love playing computer games and there are on
  * 
  -->
 
-<img height="20" alt="javascript" src="./images/javascript.svg"/>
-<img height="20" alt="typescript" src="./images/typescript.svg"/>
-<img height="20" alt="dotnet" src="./images/dotnet.svg">
+[TYPESCRIPT]: https://img.shields.io/badge/TYPESCRIPT-0?logoWidth=32&style=for-the-badge&color=3178C6&logoColor=white&logo=typescript
+
+[JAVASCRIPT]: https://img.shields.io/badge/JAVASCRIPT-0?logoWidth=32&style=for-the-badge&color=F7DF1E&logoColor=black&logo=javascript 
+
+[DOTNET]: https://img.shields.io/badge/DOTNET-0?logoWidth=32&style=for-the-badge&color=512BD4&logoColor=white&logo=dotnet
 
 [PARADOX]: https://www.paradoxinteractive.com/games/hearts-of-iron-iv/about/
 [ROAD56B]: https://steamcommunity.com/sharedfiles/filedetails/?id=820260968/
