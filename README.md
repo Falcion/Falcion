@@ -8,15 +8,13 @@ So, about me, my name is Miroslaw and I'm student in computer science with big p
 
 As any young internet-addict man, I love playing computer games and there are one which gave me first passion to code, so, they are a big part of my life and experience:
 
-- Bugfix in [HOI4][PARADOX] modding, exactly about [R56][ROAD56B].
-- Involment in huge amount of modifications for on of the most popular games on our planet - Minecraft.
+- Bugfixes in [HOI4][PARADOX-WEBSITE] modding, especially about [R56][ROAD56B-MODPAGE].
+- Involment in huge amount of modifications for on of the most popular games on our planet - [Minecraft][MINECRAFT].
 - ALSO I'm coding some mods myself.
 
 ## Experienced in
 
-- ![TYPESCRIPT]
-- ![JAVASCRIPT]
-- ![DOTNET]
+<code><img src="./.img/java.png" width="20"></code>
 
 <!-- MARKDOWN HYPERLINKS AND IMAGES 
  * We are using these blocks, because of them, code of
@@ -25,11 +23,6 @@ As any young internet-addict man, I love playing computer games and there are on
  * 
  -->
 
-[TYPESCRIPT]: https://img.shields.io/badge/TYPESCRIPT-0?logoWidth=32&style=for-the-badge&color=3178C6&logoColor=white&logo=typescript
-
-[JAVASCRIPT]: https://img.shields.io/badge/JAVASCRIPT-0?logoWidth=32&style=for-the-badge&color=F7DF1E&logoColor=black&logo=javascript 
-
-[DOTNET]: https://img.shields.io/badge/DOTNET-0?logoWidth=32&style=for-the-badge&color=512BD4&logoColor=white&logo=dotnet
-
-[PARADOX]: https://www.paradoxinteractive.com/games/hearts-of-iron-iv/about/
-[ROAD56B]: https://steamcommunity.com/sharedfiles/filedetails/?id=820260968/
+[PARADOX-WEBSITE]: https://www.paradoxinteractive.com/games/hearts-of-iron-iv/about/
+[ROAD56B-MODPAGE]: https://steamcommunity.com/sharedfiles/filedetails/?id=820260968/
+[MINECRAFT]: https://minecraft.net/
