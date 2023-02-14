@@ -1,43 +1,44 @@
-Greetings, random visitor of my page!
+Greetings, random visitor!
 
-Now, at this moment, you're observing my profile's README page and my commits activity on this beautiful website,
-so, go on, I want to introduce myself to you, in my personal format.
+Now, at this moment, you're observing my profile's README page and my commits activity on this beautiful website, so, go on, I want to introduce myself to you, in my personal format of socializing and presenting.
 
-As any young internet-addict man, I love to spent my time with computer games and learn something new and this path
-is the on which gave me first passion to code, so, this philosophy is a big part of my lifetime experience.
+Lets start from the most important and still easiest, I am computer science student who loves spending time in network, learning something new and playing videogames as everyone else in this surrealistic world.
 
-## Experience in code
+## Experience in coding
 
-I have a big passion and goal to be the fullstack data developer, so I have atleast basic experience in a lotta 
-things, so lets start from go on.
+Different programming languages give you different solutions to one problem and thats why I love to, atleast, learn some basics in a big amount of most popular and required preference, but lets start from my main course.
 
-![DOTNET]
+![dotnet]
+![javascript] 
+![typescript]
+![node.js]
+![next.js]
+![electron.js]
+![java]
 
-Main programming language in career which from I started my path in coding and so have already gained advanced
-experience in working with this beautiful language through three years of coding in it:
+My prioritised programming language is C# which I love to craziness, its one of my first languages, so, I got the biggest amount experience in it's frameworks and usage:
 
-- Basic understanding of [WPF](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/) and [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor/)
-- [ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet/)
-- [.NET Core](https://dotnet.microsoft.com/en-us/download/)
-- [.NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework/)
-- [LINQ](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/)
+- Known basics in ASP.NET (including ASP.NET Core);
+- Advanced experience in .NET Core and .NET Framework;
+- Currently studying Blazor;
 
-![JAVASCRIPT]
+As fullstack developer, I of course, studying and work with front-end and computer design in which still haven't got such big experience, but still experiencing something new in every project and task:
 
-Second in my top of most loved programming languages, have worked with vanilla, but prefer frameworks and other
-super-sets (alike [TS]()), currently advancing my acknowledgements in it and learning something new about it
-everyday:
+- Adept of Javascript with addition of supersets (like TS);
+- Advanced experience in Node.js;
+- Basic knowledges in NGINX and React.js;
+- Currently working with Electron.js and Next.js for my personal and commerical projects;
 
-- Basic experience in [React.js](https://reactjs.org/) and [jQuery](https://jquery.com/)
-- [Next.js](https://nextjs.org/)
-- [Node.js](https://nodejs.org/)
-- [Electron.js](https://www.electronjs.org/)
+Inspired by gaming industry, I also learned some technologies because of the games, this list includes some things in which I learnt only basics and how some experience as it:
 
-![JAVA]
+- Created two UI-based games in Unity 2D;
+- Learned basics of Python and LUA for scripting games;
+- Had a disastrous, but advanced experience in Java SDK for Minecraft's modifications and plugins development;
 
-Language which I learned because of my passion to computer games, obviously, because of the MCP modding and in
-addition of my favorite [C#](https://dotnet.microsoft.com/en-us/languages/csharp/), so I have only basic experience in it and only used it in modding with [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/).
-
-[DOTNET]: https://img.shields.io/badge/CSHARP-0?logoWidth=32&style=for-the-badge&color=512BD4&logoColor=white&logo=csharp
-[JAVASCRIPT]: https://img.shields.io/badge/JAVASCRIPT-0?logoWidth=32&style=for-the-badge&color=F7DF1E&logoColor=black&logo=javascript
-[JAVA]: https://img.shields.io/badge/JAVA-0?logoWidth=32&style=for-the-badge&color=FF9E0F&logoColor=white&logo=intellij-idea
+[dotnet]: https://img.shields.io/badge/Dotnet-0?style=for-the-badge&color=512BD4&logoColor=white&logo=dotnet
+[javascript]: https://img.shields.io/badge/Javascript-0?style=for-the-badge&color=F7DF1E&logoColor=black&logo=javascript
+[typescript]: https://img.shields.io/badge/Typescript-0?style=for-the-badge&color=3178C6&logoColor=white&logo=typescript
+[node.js]: https://img.shields.io/badge/Node.js-0?style=for-the-badge&color=339933&logoColor=white&logo=node.js
+[next.js]: https://img.shields.io/badge/Next.js-0?style=for-the-badge&color=000000&logoColor=white&logo=next.js
+[electron.js]: https://img.shields.io/badge/Electron-0?style=for-the-badge&color=47848F&logoColor=white&logo=electron
+[java]: https://img.shields.io/badge/JAVA-0?style=for-the-badge&color=FF9A00&logoColor=black&logo=intellij-idea
