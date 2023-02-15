@@ -33,6 +33,11 @@ Inspired by gaming industry, I also learned some technologies because of the gam
 - Learned basics of [Python](https://www.python.org/) and [LUA](http://www.lua.org/) for scripting games;
 - Had a disastrous, but advanced experience in Java for Minecraft's modifications and plugins development;
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Falcion&bg_color=30,e96443,904e95&title_color=fff&custom_title=Git%20activity%20(Falcion):&text_color=fff&include_all_commits=true&hide_border=true"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Falcion&bg_color=30,e96443,904e95&title_color=fff&custom_title=Languages%20top:&text_color=fff&include_all_commits=true&hide_border=true">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [dotnet]: https://img.shields.io/badge/Dotnet-0?style=for-the-badge&color=512BD4&logoColor=white&logo=dotnet
 [javascript]: https://img.shields.io/badge/Javascript-0?style=for-the-badge&color=F7DF1E&logoColor=black&logo=javascript
 [typescript]: https://img.shields.io/badge/Typescript-0?style=for-the-badge&color=3178C6&logoColor=white&logo=typescript
