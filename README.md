@@ -6,6 +6,25 @@ I am a human, just like you and almost everyone else on this planet, love studyi
 
 Lets start from the most important and still easiest, I am computer science student who loves spending time in network, learning something new and playing videogames as everyone else in this surrealistic world.
 
+<br/>
+
+<a href="https://twitter.com/@FalcionDEV/" align="right">
+  <img src=".img/twitter.svg" width="20" align="right" alt="-" title="Twitter"/>
+</a>
+<a href="https://github.com/Falcion/Falcion/issues/" align="right">
+<picture align="right">
+    <source 
+      srcset=".img/github-white.svg"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset=".img/github-black.svg"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src=".img/github-black.svg" width="20" align="right" alt="-" title="Issues on page"/>
+</picture>
+</a>
+
 ### ⌨️ Experience in coding
 
 Different programming languages give you different solutions to one problem and thats why I love to, atleast, learn some basics in a big amount of most popular and required preference, but lets start from my main course.
@@ -46,24 +65,4 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 ### 📋 Activity statistics on site
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Falcion&bg_color=30,e96443,904e95&title_color=fff&custom_title=Git%20activity%20(Falcion):&text_color=fff&include_all_commits=true&hide_border=true"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Falcion&bg_color=30,e96443,904e95&title_color=fff&custom_title=Languages%20top:&text_color=fff&include_all_commits=true&hide_border=true">
-
-<a href="https://twitter.com/@FalcionDEV/">
-  <img src=".img/twitter.svg" width="20" align="right" alt="-" title="Twitter"/>
-</a>
-<a href="https://github.com/Falcion/Falcion/issues/">
-<picture>
-    <source 
-      srcset=".img/github-white.svg"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset=".img/github-black.svg"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src=".img/github-black.svg" width="20" align="right" alt="-" title="Issues on page"/>
-</picture>
-</a>
-<a href="https://codesandbox.io/u/Falcion/">
-  <img src=".img/codesandbox.svg" width="20" align="right" alt="-" title="Sandbox.io"/>
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Falcion&bg_color=30,e96443,904e95&title_color=fff&custom_title=Git%20activity%20(Falcion):&text_color=fff&include_all_commits=true&hide_border=true"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Falcion&layout=compact&theme=buefy&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&custom_title=Languages%20top:&text_color=fff&include_all_commits=true&hide_border=true"/>
