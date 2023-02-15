@@ -51,14 +51,15 @@ Inspired by the gaming industry, I have also learnt some technologies because of
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 February 2023 - To: 14 February 2023
+From: 12 February 2023 - To: 15 February 2023
 
-Total Time: 3 hrs 59 mins
+Total Time: 5 hrs 32 mins
 
-Markdown     3 hrs 59 mins   █████████████████████████   99.67 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Markdown     4 hrs 57 mins   ██████████████████████▒░░   89.49 %
+C#           27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
+Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+YAML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
