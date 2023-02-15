@@ -19,21 +19,19 @@ Different programming languages give you different solutions to one problem and 
 My prioritised programming language is C# which I love to craziness, its one of my first languages, so, I got the biggest amount experience in it's frameworks and usage:
 
 - Known basics in ASP.NET (including ASP.NET Core);
-- Advanced experience in .NET Core and .NET Framework;
-- Currently studying Blazor;
+- Advanced experience in [.NET Core](https://dotnet.microsoft.com/) and any knowledge and practice within it;
 
 As fullstack developer, I of course, studying and work with front-end and computer design in which still haven't got such big experience, but still experiencing something new in every project and task:
 
-- Adept of Javascript with addition of supersets (like TS);
-- Advanced experience in Node.js;
-- Basic knowledges in NGINX and React.js;
-- Currently working with Electron.js and Next.js for my personal and commerical projects;
+- Advanced experience in [Node.js](https://nodejs.org/) and classic-clear JS in add-on with supersets;
+- Basic knowledges in [NGINX](https://nginx.org/) and [React.js](https://reactjs.org/) if case of need;
+- At the moment, working with [Electron.js](https://electronjs.org/) and [Next.js](https://nextjs.org/) for my personal and commerical projects;
 
 Inspired by gaming industry, I also learned some technologies because of the games, this list includes some things in which I learnt only basics and how some experience as it:
 
-- Created two UI-based games in Unity 2D;
-- Learned basics of Python and LUA for scripting games;
-- Had a disastrous, but advanced experience in Java SDK for Minecraft's modifications and plugins development;
+- Created two UI-based games in Unity 2D: one clicker and other is crafting chemistry game;
+- Learned basics of [Python](https://www.python.org/) and [LUA](http://www.lua.org/) for scripting games;
+- Had a disastrous, but advanced experience in Java for Minecraft's modifications and plugins development;
 
 [dotnet]: https://img.shields.io/badge/Dotnet-0?style=for-the-badge&color=512BD4&logoColor=white&logo=dotnet
 [javascript]: https://img.shields.io/badge/Javascript-0?style=for-the-badge&color=F7DF1E&logoColor=black&logo=javascript
