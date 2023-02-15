@@ -65,4 +65,6 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 ### 📋 Activity statistics on site
 
+Statistics and activity's tracker were created with plugin [README stats](https://github.com/anuraghazra/github-readme-stats/), this is an advanced view on commits and repositories top inside the entire analytics, if you want to create something like this, look into mentioned plugin, for time metrics see [README Wakametrics](https://github.com/athul/waka-readme/) which is increadebly interesting plugin, which allows you to display wakatime's API data and context into your repositories.
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Falcion&bg_color=30,e96443,904e95&title_color=fff&custom_title=Git%20activity%20(Falcion):&text_color=fff&include_all_commits=true&hide_border=true"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Falcion&layout=compact&bg_color=30,e96443,904e95&title_color=fff&custom_title=Languages%20top:&text_color=fff&include_all_commits=true&hide_border=true"/>
