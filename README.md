@@ -40,7 +40,7 @@ Inspired by gaming industry, I also learned some technologies because of the gam
   <img src=".img/twitter.svg" width="20" align="right" alt="-" title="Twitter"/>
 </a>
 <a href="https://github.com/Falcion/Falcion/issues/">
-  <img src=".img/gitpage.svg" width="20" align="right" alt="-" title="Issues on this page"/>
+  <img src=".img/github.svg" width="20" align="right" alt="-" title="Issues on this page"/>
 </a>
 <a href="https://codesandbox.io/u/Falcion/">
   <img src=".img/codesandbox.svg" width="20" align="right" alt="-" title="Sandbox.io"/>
