@@ -43,5 +43,5 @@ Inspired by gaming industry, I also learned some technologies because of the gam
   <img src=".img/gitpage.svg" width="20" align="right" alt="-" title="Issues on this page"/>
 </a>
 <a href="https://codesandbox.io/u/Falcion/">
-  <img src=".img/sandboxcode.svg" width="20" align="right" alt="-" title="Sandbox.io"/>
+  <img src=".img/codesandbox.svg" width="20" align="right" alt="-" title="Sandbox.io"/>
 </a>
