@@ -8,6 +8,8 @@ Lets start from the most important and still easiest, I am computer science stud
 
 Different programming languages give you different solutions to one problem and thats why I love to, atleast, learn some basics in a big amount of most popular and required preference, but lets start from my main course.
 
+---
+
 ![dotnet]
 ![javascript] 
 ![typescript]
@@ -15,6 +17,8 @@ Different programming languages give you different solutions to one problem and 
 ![next.js]
 ![electron.js]
 ![java]
+
+---
 
 My prioritised programming language is C# which I love to craziness, its one of my first languages, so, I got the biggest amount experience in it's frameworks and usage:
 
@@ -33,9 +37,16 @@ Inspired by gaming industry, I also learned some technologies because of the gam
 - Learned basics of [Python](https://www.python.org/) and [LUA](http://www.lua.org/) for scripting games;
 - Had a disastrous, but advanced experience in Java for Minecraft's modifications and plugins development;
 
+## Activity statistics:
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Falcion&bg_color=30,e96443,904e95&title_color=fff&custom_title=Git%20activity%20(Falcion):&text_color=fff&include_all_commits=true&hide_border=true"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Falcion&bg_color=30,e96443,904e95&title_color=fff&custom_title=Languages%20top:&text_color=fff&include_all_commits=true&hide_border=true">
 
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+
+```text
+```
+
 <!--END_SECTION:waka-->
 
 [dotnet]: https://img.shields.io/badge/Dotnet-0?style=for-the-badge&color=512BD4&logoColor=white&logo=dotnet
