@@ -18,7 +18,7 @@ Different programming languages give you different solutions to one problem and 
 
 My prioritised programming language is C# which I love to craziness, its one of my first languages, so, I got the biggest amount experience in it's frameworks and usage:
 
-- Known basics in ASP.NET (including ASP.NET Core);
+- Known basics in [ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet/) (including ASP.NET Core);
 - Advanced experience in [.NET Core](https://dotnet.microsoft.com/) and any knowledge and practice within it;
 
 As fullstack developer, I of course, studying and work with front-end and computer design in which still haven't got such big experience, but still experiencing something new in every project and task:
