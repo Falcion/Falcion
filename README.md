@@ -35,8 +35,8 @@ Inspired by gaming industry, I also learned some technologies because of the gam
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Falcion&bg_color=30,e96443,904e95&title_color=fff&custom_title=Git%20activity%20(Falcion):&text_color=fff&include_all_commits=true&hide_border=true"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Falcion&bg_color=30,e96443,904e95&title_color=fff&custom_title=Languages%20top:&text_color=fff&include_all_commits=true&hide_border=true">
 
-![wakatime-stats]
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [dotnet]: https://img.shields.io/badge/Dotnet-0?style=for-the-badge&color=512BD4&logoColor=white&logo=dotnet
 [javascript]: https://img.shields.io/badge/Javascript-0?style=for-the-badge&color=F7DF1E&logoColor=black&logo=javascript
@@ -45,5 +45,3 @@ Inspired by gaming industry, I also learned some technologies because of the gam
 [next.js]: https://img.shields.io/badge/Next.js-0?style=for-the-badge&color=000000&logoColor=white&logo=next.js
 [electron.js]: https://img.shields.io/badge/Electron-0?style=for-the-badge&color=47848F&logoColor=white&logo=electron
 [java]: https://img.shields.io/badge/JAVA-0?style=for-the-badge&color=FF9A00&logoColor=black&logo=intellij-idea
-
-[wakatime-stats]: https://github-readme-stats.vercel.app/api/wakatime?username=Falcion
