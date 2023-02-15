@@ -30,6 +30,18 @@ Inspired by gaming industry, I also learned some technologies because of the gam
 ### 📊 Weekly development progress
 
 <!--START_SECTION:waka-->
+
+```text
+From: 12 February 2023 - To: 14 February 2023
+
+Total Time: 3 hrs 59 mins
+
+Markdown     3 hrs 59 mins   █████████████████████████   99.67 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+```
+
 <!--END_SECTION:waka-->
 
 ### 📋 Activity statistics on site
