@@ -40,16 +40,16 @@ Inspired by gaming industry, I also learned some technologies because of the gam
   <img src=".img/twitter.svg" width="20" align="right" alt="-" title="Twitter"/>
 </a>
 <a href="https://github.com/Falcion/Falcion/issues/">
-  <picture>
-<source 
-  srcset=".img/github-light.svg"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset=".img/github-dark.svg"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src=".img/github-dark.svg" width="20" align="right" alt="-" title="Issues on page"/>
+<picture>
+    <source 
+      srcset=".img/github-white.svg"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset=".img/github-black.svg"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src=".img/github-black.svg" width="20" align="right" alt="-" title="Issues on page"/>
 </picture>
 </a>
 <a href="https://codesandbox.io/u/Falcion/">
