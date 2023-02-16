@@ -68,4 +68,12 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 Statistics and activity's tracker were created with plugin [README stats](https://github.com/anuraghazra/github-readme-stats/), this is an advanced view on commits and repositories top within the whole analytics, if you want to create something like this, look in mentioned plugin, for time metrics see [README Wakametrics](https://github.com/athul/waka-readme/), this is increadebly interesting plugin that allows you to display [Wakatime's API](https://wakatime.com/) data and context in your repositories.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Falcion&bg_color=30,e96443,904e95&title_color=fff&custom_title=Git%20activity%20(Falcion):&text_color=fff&include_all_commits=true&hide_border=true"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Falcion&layout=compact&bg_color=30,e96443,904e95&title_color=fff&custom_title=Languages%20top:&text_color=fff&include_all_commits=true&hide_border=true"/>
+<div align="center">
+  <br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Falcion&bg_color=30,e96443,904e95&title_color=fff&custom_title=Git%20activity%20(Falcion):&text_color=fff&include_all_commits=true&hide_border=true"/>
+  <br/>
+  <br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Falcion&layout=compact&bg_color=30,e96443,904e95&title_color=fff&custom_title=Languages%20top:&text_color=fff&include_all_commits=true&hide_border=true"/>
+</div>
+
+
