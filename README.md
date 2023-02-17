@@ -51,13 +51,13 @@ Inspired by the gaming industry, I have also learnt some technologies because of
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 February 2023 - To: 16 February 2023
+From: 12 February 2023 - To: 17 February 2023
 
-Total Time: 7 hrs 48 mins
+Total Time: 8 hrs 25 mins
 
-Markdown     4 hrs 57 mins   ████████████████░░░░░░░░░   63.63 %
-C#           2 hrs 25 mins   ███████▓░░░░░░░░░░░░░░░░░   31.17 %
-Other        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+Markdown     5 hrs 35 mins   ████████████████▓░░░░░░░░   66.31 %
+C#           2 hrs 25 mins   ███████▒░░░░░░░░░░░░░░░░░   28.87 %
+Other        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 ```
 
 <!--END_SECTION:waka-->
