@@ -55,9 +55,9 @@ From: 12 February 2023 - To: 18 February 2023
 
 Total Time: 8 hrs 25 mins
 
-Markdown     5 hrs 35 mins   ████████████████▓░░░░░░░░   66.31 %
-C#           2 hrs 25 mins   ███████▒░░░░░░░░░░░░░░░░░   28.87 %
-Other        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Markdown     5 hrs 35 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀   66.31 %
+C#           2 hrs 25 mins   ⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.87 %
+Other        10 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.05 %
 ```
 
 <!--END_SECTION:waka-->
