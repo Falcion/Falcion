@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
       branches:
-        - default
+        - master
   schedule:
     # Runs at 12am UTC
     - cron: "10 * * * *"
