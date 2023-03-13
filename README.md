@@ -69,12 +69,16 @@ Other        11 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 Statistics and activity's tracker were created with plugin [README stats](https://github.com/anuraghazra/github-readme-stats/), this is an advanced view on commits and repositories top within the whole analytics, if you want to create something like this, look in mentioned plugin, for time metrics see [README Wakametrics](https://github.com/athul/waka-readme/), this is increadebly interesting plugin that allows you to display [Wakatime's API](https://wakatime.com/) data and context in your repositories.
 
+<br/>
 <div align="center">
-  <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Falcion&custom_title=Git%20activity%20(Falcion):&include_all_commits=true&hide_border=true"/>
-  <br/>
-  <br/>
-  <img align="center" src="https://streak-stats.demolab.com?user=Falcion&hide_border=true&date_format=j%2Fn%5B%2FY%5D&ring=5094F0&fire=5094F0&currStreakLabel=5094F0"/>
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Falcion&custom_title=Git%20activity%20(Falcion):&include_all_commits=true&hide_border=true&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Falcion&custom_title=Git%20activity%20(Falcion):&include_all_commits=true&hide_border=true">
+    <img alt="Activity's tracker and web-statistics" src="https://github-readme-stats.vercel.app/api?username=Falcion&custom_title=Git%20activity%20(Falcion):&include_all_commits=true&hide_border=true">
+  </picture>
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Falcion&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&ring=5094F0&fire=5094F0&currStreakLabel=5094F0">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Falcion&hide_border=true&date_format=j%2Fn%5B%2FY%5D&ring=5094F0&fire=5094F0&currStreakLabel=5094F0">
+    <img alt="Maintained tracker of activity streak" src="https://streak-stats.demolab.com?user=Falcion&hide_border=true&date_format=j%2Fn%5B%2FY%5D&ring=5094F0&fire=5094F0&currStreakLabel=5094F0">
+  </picture>
 </div>
-
-
