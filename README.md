@@ -71,10 +71,10 @@ Statistics and activity's tracker were created with plugin [README stats](https:
 
 <div align="center">
   <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Falcion&bg_color=30,e96443,904e95&title_color=fff&custom_title=Git%20activity%20(Falcion):&text_color=fff&include_all_commits=true&hide_border=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Falcion&custom_title=Git%20activity%20(Falcion):&include_all_commits=true&hide_border=true"/>
   <br/>
   <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Falcion&layout=compact&bg_color=30,e96443,904e95&title_color=fff&custom_title=Languages%20top:&text_color=fff&include_all_commits=true&hide_border=true"/>
+  <img align="center" src="https://streak-stats.demolab.com?user=Falcion&hide_border=true&date_format=j%2Fn%5B%2FY%5D&ring=5094F0&fire=5094F0&currStreakLabel=5094F0"/>
 </div>
 
 
