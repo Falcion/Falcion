@@ -51,7 +51,7 @@ Inspired by the gaming industry, I have also learnt some technologies because of
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2023 - To: 11 August 2023
+From: 12 February 2023 - To: 12 August 2023
 
 Total Time: 194 hrs 48 mins
 
