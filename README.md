@@ -68,24 +68,9 @@ TypeScript   9 mins          ⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-#### About myself
 
-<a align="right" href="https://dev.to/falcion">
-    <img align="right" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" width="20" title="dev.to" alt="dev.to">
-</a>
-<a href="https://github.com/Falcion/" align="right">
-    <picture align="right">
-        <source 
-          srcset="static/github-white.svg"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="static/github-black.svg"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="static/github-black.svg" width="20" align="right" title="Git" alt="git"/>
-    </picture>
-</a>
+
+#### About myself
 
 At the moment, I'm studying to the degree of bachelor for fullstack developer (CS major) and the game development at the same time; interested in humanities, major interest in philosophy (ontology and metaphysics), common art, linguistics and writing art (world-building).
 
