@@ -1,12 +1,11 @@
-name: Waka Readme
+name: Wakatime README
 
 on:
   workflow_dispatch:
   push:
       branches:
-        - master
+        - main
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
 
 jobs:

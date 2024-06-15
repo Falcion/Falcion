@@ -1,85 +1,124 @@
-Greetings, random visitor!
 
-Right now, you're observing my profile's README page and my commit activity on this beautiful website, so go ahead, I'd like to introduce myself in my personal format.
+#### Stack
 
-I'm a human being, just like you and almost everyone else on this planet, who likes to study philosophy, read, write essays, topics and many, many other things from time to time, when there is no derealisation: you can contact me using the links below the text of this README.
+- .NET Core, .NET Framework, ASP.NET Core; JS&TS; React.js; Next.js; Electron.js; Express.js; Node.js; Mongo-DB; PostgreSQL (SQL, SQLite3); basic knowledge of Python, Java, LUA and C++; tech-writer, development environment engineer;
+- **also:**
+  - Swagger
+  - WSL (Linux):
+    - Debian;
+    - Ubuntu;
+  - REST API;
+  - Forge/Fabric API (MCP);
+  - HTML & CSS:
+    - Svelte;
+    - Tailwind;
+  - Vercel;
 
-Let us start with the most important and still simplest: I am a student of computer science, who loves to spend time on the net, to learn something new and to play video games like everyone else in this surrealistic world.
+#### Instruments
+
+- Git, Github, Gitlab, Husky, Gitkraken; Figma; Adobe Photoshop, Adobe XD, Adobe Illustrator; GIMP; Actions & Workflows (Github); .ENV; NPM & YARN; Nuget; Docker & Kubernetes; prompt-engineering;
+- Bash, PS1 & BAT;
+- Obsidian & Logseq; Atlassian (Jira) & Milanote;
 
 <br/>
 
-<a href="https://twitter.com/@FalcionDEV/" align="right">
-  <img src=".img/twitter.svg" width="20" align="right" alt="-" title="Twitter"/>
-</a>
-<a href="https://github.com/Falcion/Falcion/issues/" align="right">
-<picture align="right">
-    <source 
-      srcset=".img/github-white.svg"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset=".img/github-black.svg"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src=".img/github-black.svg" width="20" align="right" alt="-" title="Issues on page"/>
-</picture>
-</a>
+<div align="center">
+    <picture align="left">
+      <source
+        srcset="https://github-readme-stats-ysug.vercel.app/api?username=Falcion&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats-ysug.vercel.app/api?username=Falcion&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats-ysug.vercel.app/api?username=Falcion&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true" />
+    </picture>
+    <br/>
+    <picture align="right">
+      <source
+        srcset="https://github-readme-streak-stats-gray-six.vercel.app?user=Falcion&theme=github-dark-blue&card_width=500&currStreakLabel=C3D1CD&currStreakNum=C3D1CD&sideLabels=C3D1CD&hide_border=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-streak-stats-gray-six.vercel.app?user=Falcion&card_width=500&currStreakLabel=5094F0&currStreakNum=434D58&sideLabels=434D58&ring=5094F0&fire=5094F0&hide_border=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-streak-stats-gray-six.vercel.app?user=Falcion&theme=ambient_gradient" />
+    </picture>
+    <br/>
+</div>
 
-### ⌨️ Programming experience
+#### Programming activity by last week
 
-Different programming languages give you different solutions to a problem and thats why I love to learn atleast some basics in a large amount of most popular and required preference, but lets start from my main course.
+[![wakatime](https://wakatime.com/badge/user/8a621519-df33-4170-acfd-2a7ae1324590.svg)](https://wakatime.com/@8a621519-df33-4170-acfd-2a7ae1324590) [![GitHub followers](https://img.shields.io/github/followers/Falcion)](https://github.com/Falcion?tab=followers) [![GitHub User's stars](https://img.shields.io/github/stars/Falcion)](https://github.com/Falcion?tab=repositories)
 
-My preferred programming language is C#, which I love to crazy, its one of my first languages, so I got the biggest amount of experience in it's frameworks and using:
-
-- Known basics in [ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet/) (including ASP.NET Core);
-- Advanced experience in [.NET Core](https://dotnet.microsoft.com/) and any knowledge and practice within it;
-
-As a full-stack developer, of course, I'm studying and working with front-end and computer design, in which I still don't have that much experience, but I still learn something new in every project and task:
-
-- Advanced experience in [Node.js](https://nodejs.org/) and classic-clear JS in add-on with supersets;
-- Basic knowledge in [NGINX](https://nginx.org/) and [React.js](https://reactjs.org/) in case of need;
-- At the moment I am working with [Electron.js](https://electronjs.org/) and [Next.js](https://nextjs.org/) for both my personal and commercial projects;
-
-Inspired by the gaming industry, I have also learnt some technologies because of the games, this list includes some things in which I have learnt only the basics and how some experience like it:
-
-- Created two UI based games in Unity 2D: one is a clicker game and the other is a chemistry crafting game;
-- Learned the basics of [Python](https://www.python.org/) and [LUA](http://www.lua.org/) for the scripting of games;
-- Had a disastrous but advanced experience in Java for Minecraft's modifications and plugin development;
-
-### 📊 Weekly development progress
+This codeblock shows programming activity time by last week through “Wakatime API” (more about it on https://wakatime.com): it may be laggy with updating stats.
 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 June 2024 - To: 14 June 2024
+From: 04 June 2024 - To: 11 June 2024
 
-Total Time: 3 hrs 10 mins
+Total Time: 42 mins
 
-Markdown     2 hrs 41 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀   84.91 %
-YAML         10 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.38 %
-TypeScript   9 mins          ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.07 %
-Other        4 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.32 %
-Git Config   2 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.52 %
-Bash         1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.56 %
-INI          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.23 %
+Markdown     33 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀   77.40 %
+TypeScript   9 mins          ⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.60 %
 ```
 
 <!--END_SECTION:waka-->
 
-### 📋 Activity statistics on site
+#### About myself
 
-Statistics and activity's tracker were created with plugin [README stats](https://github.com/anuraghazra/github-readme-stats/), this is an advanced view on commits and repositories top within the whole analytics, if you want to create something like this, look in mentioned plugin, for time metrics see [README Wakametrics](https://github.com/athul/waka-readme/), this is increadebly interesting plugin that allows you to display [Wakatime's API](https://wakatime.com/) data and context in your repositories.
+<a align="right" href="https://dev.to/falcion">
+    <img align="right" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" width="20" title="dev.to" alt="dev.to">
+</a>
+<a href="https://github.com/Falcion/" align="right">
+    <picture align="right">
+        <source 
+          srcset="static/github-white.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="static/github-black.svg"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="static/github-black.svg" width="20" align="right" title="Git" alt="git"/>
+    </picture>
+</a>
+
+At the moment, I'm studying to the degree of bachelor for fullstack developer (CS major) and the game development at the same time; interested in humanities, major interest in philosophy (ontology and metaphysics), common art, linguistics and writing art (world-building).
+
+- English: C2;
+- Finnish (Suomi): A1;
+- German (Deutsch): A1;
 
 <br/>
 <div align="center">
-  <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Falcion&custom_title=Git%20activity%20(Falcion):&include_all_commits=true&hide_border=true&theme=dark&ring_color=5094F0">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Falcion&custom_title=Git%20activity%20(Falcion):&include_all_commits=true&hide_border=true&ring_color=5094F0">
-    <img alt="Activity's tracker and web-statistics" src="https://github-readme-stats.vercel.app/api?username=Falcion&custom_title=Git%20activity%20(Falcion):&include_all_commits=true&hide_border=true&ring_color=5094F0">
-  </picture>
-  <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Falcion&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&ring=5094F0&fire=5094F0&currStreakLabel=5094F0&sideLabels=989898&dates=989898">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Falcion&hide_border=true&date_format=j%2Fn%5B%2FY%5D&ring=5094F0&fire=5094F0&currStreakLabel=5094F0">
-    <img alt="Maintained tracker of activity streak" src="https://streak-stats.demolab.com?user=Falcion&hide_border=true&date_format=j%2Fn%5B%2FY%5D&ring=5094F0&fire=5094F0&currStreakLabel=5094F0">
-  </picture>
+  <img src="./github-metrics.svg" align="center">
+</div>
+
+<br/>
+
+<div align="center">
+    <details>
+        <summary>
+            <!-- markdown-link-check-disable -->
+            <h4>
+            Wakatime activity
+            </h4>
+            <!-- markdown-link-check-enable -->
+        </summary>
+        <picture align="center">
+          <source
+            srcset="https://github-readme-stats-ysug.vercel.app/api/wakatime?username=Falcion&card_width=500px&theme=github_dark&show_icons=true&custom_title=Wakatime%20(Last%20year):&hide_border=true"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source
+            srcset="https://github-readme-stats-ysug.vercel.app/api/wakatime?username=Falcion&card_width=500&theme=github_light&show_icons=true&custom_title=Wakatime%20(Last%20year):&hide_border=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img src="https://github-readme-stats-ysug.vercel.app/api/wakatime?username=Falcion&card_width=500&theme=ambient_gradient&show_icons=true&custom_title=Wakatime%20(Last%20year):&hide_border=true" />
+        </picture>
+    </details>
 </div>
