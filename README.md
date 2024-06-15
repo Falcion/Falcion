@@ -95,7 +95,7 @@ At the moment, I'm studying to the degree of bachelor for fullstack developer (C
 
 <br/>
 <div align="center">
-  <img src="./../github-metrics.svg" align="center">
+  <img src="./github-metrics.svg" align="center">
 </div>
 
 <br/>
