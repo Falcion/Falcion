@@ -103,9 +103,11 @@ At the moment, I'm studying to the degree of bachelor for fullstack developer (C
 <div align="center">
     <details>
         <summary>
+            <!-- markdown-link-check-disable -->
             <h4>
             Wakatime activity
             </h4>
+            <!-- markdown-link-check-enable -->
         </summary>
         <picture align="center">
           <source
