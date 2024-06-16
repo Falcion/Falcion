@@ -79,7 +79,7 @@ INI          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 At the moment, I'm studying to the degree of bachelor for fullstack developer (CS major) and the game development at the same time; interested in humanities, major interest in philosophy (ontology and metaphysics), common art, linguistics and writing art (world-building).
 
-- English: C2;
+- English: C1;
 - Finnish (Suomi): A1;
 - German (Deutsch): A1;
 
