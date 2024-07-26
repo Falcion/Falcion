@@ -8,6 +8,8 @@
     - Debian;
     - Ubuntu;
   - REST API;
+    - tRPC;
+    - gRPC;
   - Forge/Fabric API (MCP);
   - HTML & CSS:
     - Svelte;
