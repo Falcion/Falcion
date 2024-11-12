@@ -1,7 +1,7 @@
 
 #### Stack
 
-- .NET Core, .NET Framework, ASP.NET Core; JS&TS; React.js; Next.js; Electron.js; Express.js; Node.js; Mongo-DB; PostgreSQL (SQL, SQLite3); basic knowledge of Python, Java, LUA and C++; tech-writer, development environment engineer;
+- .NET Core, .NET Framework, ASP.NET Core; JS&TS; React.js; Next.js; Electron.js; Express.js; Node.js; Mongo-DB; PostgreSQL (SQL, SQLite3); Dart (and Flutter); basic knowledge of Python, Java, LUA and C++; tech-writer, development environment engineer;
 - **also:**
   - Swagger
   - WSL (Linux):
