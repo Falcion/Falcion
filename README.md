@@ -18,7 +18,7 @@
 
 #### Instruments
 
-- Git, Github, Gitlab, Husky, Gitkraken; Figma; Adobe Photoshop, Adobe XD, Adobe Illustrator; GIMP; Actions & Workflows (Github); .ENV; NPM & YARN; Nuget; Docker & Kubernetes; prompt-engineering;
+- Git, Github, Gitlab, Husky, Gitkraken; Figma; Adobe Photoshop, Adobe XD, Adobe Illustrator; GIMP; Actions & Workflows (Github); .ENV; NPM & YARN; Nuget; Docker & Kubernetes; prompt-engineering; CI/CD;
 - Bash, PS1 & BAT;
 - Obsidian & Logseq; Atlassian (Jira) & Milanote;
 
