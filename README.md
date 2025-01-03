@@ -1,26 +1,91 @@
+<!-- markdownlint-disable -->
+**Greetings, random visitor!**
 
-#### Stack
+Here is my main technology stack, i.e. the programming languages, frameworks, etc. that I am actively developing something in or
+am interested in and learning about:
 
-- .NET Core, .NET Framework, ASP.NET Core; JS&TS; React.js; Next.js; Electron.js; Express.js; Node.js; Mongo-DB; PostgreSQL (SQL, SQLite3); Dart (and Flutter); basic knowledge of Python, Java, LUA and C++; tech-writer, development environment engineer;
-- **also:**
-  - Swagger
-  - WSL (Linux):
-    - Debian;
-    - Ubuntu;
-  - REST API;
-    - tRPC;
-    - gRPC;
-  - Forge/Fabric API (MCP);
-  - HTML & CSS:
-    - Svelte;
-    - Tailwind;
-  - Vercel;
+![CSharp](https://img.shields.io/badge/-.NET-000?&logo=dotnet)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=nodedotjs)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs)
+![React.js](https://img.shields.io/badge/-React.js-000?&logo=react)
+![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)
+![Electron.js](https://img.shields.io/badge/-Electron.js-000?&logo=electron)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
+![Postgres](https://img.shields.io/badge/-Postgres-000?&logo=postgresql)
+![Mongo](https://img.shields.io/badge/-Mongo-000?&logo=mongodb)
+![Neo4j](https://img.shields.io/badge/-Neo4j-000?&logo=neo4j)
+![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=svelte)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=tailwindcss)
+![HTMX](https://img.shields.io/badge/-HTMX-000?&logo=htmx)
+
+- C#:
+  - .NET Core;
+  - .NET Framework;
+  - WPF;
+  - ASP.NET Core;
+- Java;
+
+And here is my "additional", backup stack of technologies, i.e. those programming languages, frameworks, etc. in which I know the basics or have practiced at some point, but not at the moment:
+
+![LUA](https://img.shields.io/badge/-LUA-000?&logo=lua)
+![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
+
+In parallel with this, I am interested in the development of environment tools and the practical application (and writing) of technical documentation (documents, conventions, technical specifications).
+
+**This are technologies, concepts that I'm familliar with:**
+
+- API:
+  - REST;
+  - tRPC;
+  - gRPC;
+- Forge/Fabric APIs (MCP);
+- CI/CD;
+- Linters & formatters;
 
 #### Instruments
 
-- Git, Github, Gitlab, Husky, Gitkraken; Figma; Adobe Photoshop, Adobe XD, Adobe Illustrator; GIMP; Actions & Workflows (Github); .ENV; NPM & YARN; Nuget; Docker & Kubernetes; prompt-engineering; CI/CD;
-- Bash, PS1 & BAT;
-- Obsidian & Logseq; Atlassian (Jira) & Milanote;
+Below is a list of development tools that I use or have experience using:
+
+![Swagger](https://img.shields.io/badge/-Swagger-000?&logo=swagger)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
+![Debian](https://img.shields.io/badge/-Debian-000?&logo=debian)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=ubuntu)
+![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=vercel)
+![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=heroku)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Git LFS](https://img.shields.io/badge/-Git%20LFS-000?&logo=gitlfs)
+![Gitbook](https://img.shields.io/badge/-Gitbook-000?&logo=gitbook)
+![Github](https://img.shields.io/badge/-Github-000?&logo=github)
+![Github](https://img.shields.io/badge/-Github%20Actions-000?&logo=githubactions)
+![Gitlab](https://img.shields.io/badge/-Gitlab-000?&logo=gitlab)
+![Gitkraken](https://img.shields.io/badge/-Gitkraken-000?&logo=gitkraken)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
+![GIMP](https://img.shields.io/badge/-GIMP-000?&logo=gimp)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes)
+![Obsidian](https://img.shields.io/badge/-Obsidian-000?&logo=obsidian)
+![Logseq](https://img.shields.io/badge/-Logseq-000?&logo=logseq)
+![npm](https://img.shields.io/badge/-npm-000?&logo=npm)
+![bun](https://img.shields.io/badge/-bun-000?&logo=bun)
+![yarn](https://img.shields.io/badge/-yarn-000?&logo=yarn)
+![Nuget](https://img.shields.io/badge/-Nuget-000?&logo=nuget)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira)
+![Slack](https://img.shields.io/badge/-Slack-000?&logo=slack)
+![Milanote](https://img.shields.io/badge/-Milanote-000?&logo=milanote)
+![Atlassian](https://img.shields.io/badge/-Atlassian-000?&logo=atlassian)
+
+And this is an additional list of tools that are not listed above:
+
+- WSL:
+  - Debian;
+  - Ubuntu;
+- Husky's hooks;
+- Adobe's ecosystem (Photoshop, Illustrator and etc.);
+- Bash, powershell & batch;
 
 <br/>
 
@@ -51,11 +116,9 @@
     <br/>
 </div>
 
-#### Programming activity by last week
+#### Programming activity and stats
 
 [![wakatime](https://wakatime.com/badge/user/8a621519-df33-4170-acfd-2a7ae1324590.svg)](https://wakatime.com/@8a621519-df33-4170-acfd-2a7ae1324590) [![GitHub followers](https://img.shields.io/github/followers/Falcion)](https://github.com/Falcion?tab=followers) [![GitHub User's stars](https://img.shields.io/github/stars/Falcion)](https://github.com/Falcion?tab=repositories)
-
-This codeblock shows programming activity time by last week through “Wakatime API” (more about it on https://wakatime.com): it may be laggy with updating stats.
 
 <!--START_SECTION:waka-->
 
@@ -78,22 +141,126 @@ TypeScript    0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
+#### Little bit of myself
 
-
-#### About myself
-
-At the moment, I'm studying to the degree of bachelor for fullstack developer (CS major) and the game development at the same time; interested in humanities, major interest in philosophy (ontology and metaphysics), common art, linguistics and writing art (world-building).
-
-- English: C1;
-- Finnish (Suomi): A1;
-- German (Deutsch): A1;
+- studying for a bachelor's degree in full-stack development (industrial programming);
+  - working degree in game development;
+  - working degree in applied programming;
+- in parallel, I am developing and learning in the field of development and operations ("devops");
+- independently studying the humanities, in particular philosophy and linguistics;
+- trying to develop skills in drawing and world building (writing and screenwriting)
 
 <br/>
 <div align="center">
   <img src="./github-metrics.svg" align="center">
 </div>
 
+#### Popular and supported projects
+
+Here are listed projects that are popular to varying degrees, have high activity (support), or simply that I personally like:
+
 <br/>
+<div align="left">
+    <picture align="left">
+      <source
+        srcset="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=UNITADE.md&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=4&show_owner"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=UNITADE.md&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=truedescription_lines_count=4&show_owner"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=UNITADE.md&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=4&show_owner" />
+    </picture>
+    <picture align="left">
+      <source
+        srcset="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=LIBRA.md&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=4&show_owner"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=LIBRA.md&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=truedescription_lines_count=4&show_owner"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=LIBRA.md&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=4&show_owner" />
+    </picture>
+    <br/>
+    <picture align="left">
+      <source
+        srcset="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=Zustandsmaschine&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=4&show_owner"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=Zustandsmaschine&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=truedescription_lines_count=4&show_owner"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=Zustandsmaschine&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=4&show_owner" />
+    </picture>
+    <picture align="left">
+      <source
+        srcset="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=Patternunote&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=4&show_owner"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=Patternunote&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=truedescription_lines_count=4&show_owner"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=Patternunote&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=4&show_owner" />
+    </picture>
+    <br/>
+    <picture align="left">
+      <source
+        srcset="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=Zustandfundamentalen&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=4&show_owner"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=Zustandfundamentalen&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=truedescription_lines_count=4&show_owner"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=Zustandfundamentalen&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=4&show_owner" />
+    </picture>
+    <picture align="left">
+      <source
+        srcset="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=Patternugit&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=4&show_owner"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=Patternugit&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=truedescription_lines_count=4&show_owner"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=Patternugit&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=4&show_owner" />
+    </picture>
+</div>
+
+#### Trophies of the account
+
+Below are all the trophies for the entire period of profile activity:
+
+<br/>
+<div align="left">
+    <picture align="left">
+      <source
+        srcset="https://github-profile-trophy.vercel.app/?username=Falcion&theme=darkhub&margin-w=4&margin-h=7&no-frame=true&no-bg=true&column=3"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-profile-trophy.vercel.app/?username=Falcion&theme=flat&margin-w=4&margin-h=7&no-frame=true&no-bg=true&column=3"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-profile-trophy.vercel.app/?username=Falcion&theme=darkhub&margin-w=4&margin-h=7&no-frame=true&no-bg=true&column=3" />
+    </picture>
+</div>
+
+#### References
+
+Special thanks and links to the resources that were used to create this README profile:
+
+- https://shields.io/
+- https://wakatime.com/
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats/)
+- [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats/)
+- [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy/)
+- [waka-readme](https://github.com/athul/waka-readme)
+- [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
 <div align="center">
     <details>
