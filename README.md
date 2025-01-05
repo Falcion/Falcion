@@ -7,6 +7,7 @@ am interested in and learning about:
 ![CSharp](https://img.shields.io/badge/-.NET-000?&logo=dotnet)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=nodedotjs)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs)
 ![React.js](https://img.shields.io/badge/-React.js-000?&logo=react)
@@ -51,6 +52,7 @@ In parallel with this, I am interested in the development of environment tools a
 Below is a list of development tools that I use or have experience using:
 
 ![Swagger](https://img.shields.io/badge/-Swagger-000?&logo=swagger)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 ![Debian](https://img.shields.io/badge/-Debian-000?&logo=debian)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=ubuntu)
@@ -64,6 +66,7 @@ Below is a list of development tools that I use or have experience using:
 ![Gitlab](https://img.shields.io/badge/-Gitlab-000?&logo=gitlab)
 ![Gitkraken](https://img.shields.io/badge/-Gitkraken-000?&logo=gitkraken)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
+![Aseprite](https://img.shields.io/badge/-Aseprite-000?&logo=aseprite)
 ![GIMP](https://img.shields.io/badge/-GIMP-000?&logo=gimp)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes)
@@ -77,6 +80,11 @@ Below is a list of development tools that I use or have experience using:
 ![Slack](https://img.shields.io/badge/-Slack-000?&logo=slack)
 ![Milanote](https://img.shields.io/badge/-Milanote-000?&logo=milanote)
 ![Atlassian](https://img.shields.io/badge/-Atlassian-000?&logo=atlassian)
+![Unity](https://img.shields.io/badge/-Unity-000?&logo=unity)
+![XAMPP](https://img.shields.io/badge/-XAMPP-000?&logo=xampp)
+![DBeaver](https://img.shields.io/badge/-DBeaver-000?&logo=dbeaver)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)
+![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=supabase)
 
 And this is an additional list of tools that are not listed above:
 
@@ -114,11 +122,24 @@ And this is an additional list of tools that are not listed above:
       <img src="https://github-readme-streak-stats-gray-six.vercel.app?user=Falcion&theme=ambient_gradient" />
     </picture>
     <br/>
+    <picture align="center">
+      <source
+        srcset="https://github-profile-trophy.vercel.app/?username=Falcion&theme=darkhub&margin-w=4&margin-h=7&no-frame=true&no-bg=true&column=3"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-profile-trophy.vercel.app/?username=Falcion&theme=flat&margin-w=4&margin-h=7&no-frame=true&no-bg=true&column=3"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-profile-trophy.vercel.app/?username=Falcion&theme=darkhub&margin-w=4&margin-h=7&no-frame=true&no-bg=true&column=3" />
+    </picture>
 </div>
 
 #### Programming activity and stats
 
-[![wakatime](https://wakatime.com/badge/user/8a621519-df33-4170-acfd-2a7ae1324590.svg)](https://wakatime.com/@8a621519-df33-4170-acfd-2a7ae1324590) [![GitHub followers](https://img.shields.io/github/followers/Falcion)](https://github.com/Falcion?tab=followers) [![GitHub User's stars](https://img.shields.io/github/stars/Falcion)](https://github.com/Falcion?tab=repositories)
+[![wakatime](https://wakatime.com/badge/user/8a621519-df33-4170-acfd-2a7ae1324590.svg)](https://wakatime.com/@8a621519-df33-4170-acfd-2a7ae1324590)
+[![GitHub followers](https://img.shields.io/github/followers/Falcion)](https://github.com/Falcion?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/Falcion)](https://github.com/Falcion?tab=repositories)
 
 <!--START_SECTION:waka-->
 
@@ -148,7 +169,7 @@ TypeScript    0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   - working degree in applied programming;
 - in parallel, I am developing and learning in the field of development and operations ("devops");
 - independently studying the humanities, in particular philosophy and linguistics;
-- trying to develop skills in drawing and world building (writing and screenwriting)
+- trying to develop skills in drawing (pixel-art) and world building (writing and screenwriting).
 
 <br/>
 <div align="center">
@@ -157,7 +178,7 @@ TypeScript    0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 #### Popular and supported projects
 
-Here are listed projects that are popular to varying degrees, have high activity (support), or simply that I personally like:
+Here are listed projects that are popular to varying degrees, have high activity (support), or simply that I personally like, some of them may be archived or moved to another organizations, related to myself:
 
 <br/>
 <div align="left">
@@ -229,39 +250,34 @@ Here are listed projects that are popular to varying degrees, have high activity
       />
       <img src="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=Patternugit&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=4&show_owner" />
     </picture>
-</div>
-
-#### Trophies of the account
-
-Below are all the trophies for the entire period of profile activity:
-
-<br/>
-<div align="left">
+    <br/>
     <picture align="left">
       <source
-        srcset="https://github-profile-trophy.vercel.app/?username=Falcion&theme=darkhub&margin-w=4&margin-h=7&no-frame=true&no-bg=true&column=3"
+        srcset="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=Whisperer.md&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=4&show_owner"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-profile-trophy.vercel.app/?username=Falcion&theme=flat&margin-w=4&margin-h=7&no-frame=true&no-bg=true&column=3"
+        srcset="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=Whisperer.md&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=truedescription_lines_count=4&show_owner"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-profile-trophy.vercel.app/?username=Falcion&theme=darkhub&margin-w=4&margin-h=7&no-frame=true&no-bg=true&column=3" />
+      <img src="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=Whisperer.md&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=4&show_owner" />
     </picture>
 </div>
 
 #### References
 
-Special thanks and links to the resources that were used to create this README profile:
+Special thanks and links to the resources that were used to create this profile preview with their advanced functionality or resources:
 
 - https://shields.io/
+  - https://simpleicons.org/
 - https://wakatime.com/
+- https://metrics.lecoq.io/
+- [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy/)
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats/)
 - [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats/)
-- [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy/)
-- [waka-readme](https://github.com/athul/waka-readme)
-- [lowlighter/metrics](https://github.com/lowlighter/metrics)
+- https://github.com/athul/waka-readme
 
+<br/>
 <div align="center">
     <details>
         <summary>
