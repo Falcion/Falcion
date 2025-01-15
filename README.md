@@ -85,6 +85,10 @@ Below is a list of development tools that I use or have experience using:
 ![DBeaver](https://img.shields.io/badge/-DBeaver-000?&logo=dbeaver)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)
 ![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=supabase)
+![Apache](https://img.shields.io/badge/-Apache-000?&logo=apache)
+![Apache Maven](https://img.shields.io/badge/-Apache%20Maven-000?&logo=apachemaven)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-000?&logo=apachekafka)
+![Apache Groovy](https://img.shields.io/badge/-Apache%20Groovy-000?&logo=apachegroovy)
 
 And this is an additional list of tools that are not listed above:
 
