@@ -66,6 +66,7 @@ Below is a list of development tools that I use or have experience using:
 ![Gitlab](https://img.shields.io/badge/-Gitlab-000?&logo=gitlab)
 ![Gitkraken](https://img.shields.io/badge/-Gitkraken-000?&logo=gitkraken)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
+![Krita](https://img.shields.io/badge/-Krita-000?&logo=Krita)
 ![Aseprite](https://img.shields.io/badge/-Aseprite-000?&logo=aseprite)
 ![GIMP](https://img.shields.io/badge/-GIMP-000?&logo=gimp)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
