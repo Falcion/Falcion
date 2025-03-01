@@ -21,6 +21,7 @@ am interested in and learning about:
 ![Neo4j](https://img.shields.io/badge/-Neo4j-000?&logo=neo4j)
 ![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=svelte)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
 ![HTMX](https://img.shields.io/badge/-HTMX-000?&logo=htmx)
 
 - C#:
@@ -34,18 +35,19 @@ And here is my "additional", backup stack of technologies, i.e. those programmin
 
 ![LUA](https://img.shields.io/badge/-LUA-000?&logo=lua)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=nuxt)
 
 In parallel with this, I am interested in the development of environment tools and the practical application (and writing) of technical documentation (documents, conventions, technical specifications).
 
 **This are technologies, concepts that I'm familliar with:**
 
+- Forge/Fabric APIs (MCP);
 - API:
   - REST;
   - tRPC;
   - gRPC;
-- Forge/Fabric APIs (MCP);
-- CI/CD;
-- Linters & formatters;
+- CI/CD:
+  - Linters & formatters;
 
 #### Instruments
 
@@ -65,6 +67,7 @@ Below is a list of development tools that I use or have experience using:
 ![Github](https://img.shields.io/badge/-Github%20Actions-000?&logo=githubactions)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-000?&logo=gitlab)
 ![Gitkraken](https://img.shields.io/badge/-Gitkraken-000?&logo=gitkraken)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-000?&logo=bitbucket)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
 ![Krita](https://img.shields.io/badge/-Krita-000?&logo=Krita)
 ![Aseprite](https://img.shields.io/badge/-Aseprite-000?&logo=aseprite)
@@ -172,9 +175,12 @@ Bash         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 - studying for a bachelor's degree in full-stack development (industrial programming);
   - working degree in game development;
   - working degree in applied programming;
-- in parallel, I am developing and learning in the field of development and operations ("devops");
-- independently studying the humanities, in particular philosophy and linguistics;
-- trying to develop skills in drawing (pixel-art) and world building (writing and screenwriting).
+- I am learning how to create and program an environment in the development operations (devops) stack;
+- involved in screenwriting and world-building, developing my own novelization;
+- I am self-studying drawing;
+- I am self-studying philosophy and other humanities;
+
+I develop indie games on a team as a writer and am the founder of the organization METEOSPAX.
 
 <br/>
 <div align="center">
@@ -304,18 +310,8 @@ Here are listed projects that are popular to varying degrees, have high activity
     </a>
 </div>
 
-#### References
-
-Special thanks and links to the resources that were used to create this profile preview with their advanced functionality or resources:
-
-- https://shields.io/
-  - https://simpleicons.org/
-- https://wakatime.com/
-- https://metrics.lecoq.io/
-- [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy/)
-- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats/)
-- [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats/)
-- https://github.com/athul/waka-readme
+For references about projects used for this profile, see:\
+["References and thanks for README"](./REFERENCES.md)
 
 <br/>
 <div align="center">
