@@ -93,6 +93,9 @@ Below is a list of development tools that I use or have experience using:
 ![Apache Maven](https://img.shields.io/badge/-Apache%20Maven-000?&logo=apachemaven)
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-000?&logo=apachekafka)
 ![Apache Groovy](https://img.shields.io/badge/-Apache%20Groovy-000?&logo=apachegroovy)
+![Zed](https://img.shields.io/badge/-Zed-000?&logo=zedindustries)
+![Modrinth](https://img.shields.io/badge/-Modrinth-000?&logo=modrinth)
+![Curseforge](https://img.shields.io/badge/-Curseforge-000?&logo=curseforge)
 
 And this is an additional list of tools that are not listed above:
 
