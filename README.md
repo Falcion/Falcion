@@ -10,46 +10,50 @@ am interested in and learning about:
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=nodedotjs)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs)
 ![React.js](https://img.shields.io/badge/-React.js-000?&logo=react)
+![Prisma.js](https://img.shields.io/badge/-Prisma.js-000?&logo=prisma)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Jest.js](https://img.shields.io/badge/-Jest.js-000?&logo=jest)
 ![Mocha.js](https://img.shields.io/badge/-Mocha.js-000?&logo=mocha)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
 ![Postgres](https://img.shields.io/badge/-Postgres-000?&logo=postgresql)
 ![Mongo](https://img.shields.io/badge/-Mongo-000?&logo=mongodb)
-![Neo4j](https://img.shields.io/badge/-Neo4j-000?&logo=neo4j)
 ![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=svelte)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
 ![HTMX](https://img.shields.io/badge/-HTMX-000?&logo=htmx)
 
 - C#:
-  - .NET Core;
+  - ASP.NET;
   - ASP.NET Core;
   - WPF;
 - Java;
 
 And here is my "additional", backup stack of technologies, i.e. those programming languages, frameworks, etc. in which I know the basics or have practiced at some point, but not at the moment:
 
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
+![Neo4j](https://img.shields.io/badge/-Neo4j-000?&logo=neo4j)
 
 In parallel with this, I am interested in the development of environment tools and the practical application (and writing) of technical documentation (documents, conventions, technical specifications).
 
 **This are technologies, concepts that I'm familliar with:**
 
-- Forge/Fabric APIs (MCP);
-- API:
+- APIs:
   - REST;
   - tRPC;
   - gRPC;
 - CI/CD:
-  - Linters & formatters;
+  - linters & formatters;
+  - containers, images & clusters;
+  - deployments, trascompilers & builders;
+- Forge API/Fabric API (MCP);
 
 #### Instruments
 
 Below is a list of development tools that I use or have experience using:
 
+![GNUBash](https://img.shields.io/badge/-GNU%20Bash-000?&logo=gnubash)
 ![Swagger](https://img.shields.io/badge/-Swagger-000?&logo=swagger)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
@@ -64,7 +68,6 @@ Below is a list of development tools that I use or have experience using:
 ![Github](https://img.shields.io/badge/-Github%20Actions-000?&logo=githubactions)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-000?&logo=gitlab)
 ![Gitkraken](https://img.shields.io/badge/-Gitkraken-000?&logo=gitkraken)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-000?&logo=bitbucket)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
 ![Krita](https://img.shields.io/badge/-Krita-000?&logo=Krita)
 ![Aseprite](https://img.shields.io/badge/-Aseprite-000?&logo=aseprite)
@@ -73,12 +76,7 @@ Below is a list of development tools that I use or have experience using:
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-000?&logo=obsidian)
 ![Logseq](https://img.shields.io/badge/-Logseq-000?&logo=logseq)
-![npm](https://img.shields.io/badge/-npm-000?&logo=npm)
-![bun](https://img.shields.io/badge/-bun-000?&logo=bun)
-![yarn](https://img.shields.io/badge/-yarn-000?&logo=yarn)
 ![Nuget](https://img.shields.io/badge/-Nuget-000?&logo=nuget)
-![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira)
-![Slack](https://img.shields.io/badge/-Slack-000?&logo=slack)
 ![Milanote](https://img.shields.io/badge/-Milanote-000?&logo=milanote)
 ![Atlassian](https://img.shields.io/badge/-Atlassian-000?&logo=atlassian)
 ![Unity](https://img.shields.io/badge/-Unity-000?&logo=unity)
@@ -94,12 +92,9 @@ Below is a list of development tools that I use or have experience using:
 
 And this is an additional list of tools that are not listed above:
 
-- WSL:
-  - Debian;
-  - Ubuntu;
-- Husky's hooks;
-- Adobe's ecosystem (Photoshop, Illustrator and etc.);
-- Bash, powershell & batch;
+- hooks & webhooks:
+  - hooks by git;
+  - hooks by husky;
 
 <br/>
 
@@ -175,7 +170,7 @@ Git Config   1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 - I am self-studying drawing;
 - I am self-studying philosophy and other humanities;
 
-<!-- I develop indie games on a team as a writer and am the founder of the organization METEOSPAX. -->
+At the moment I am engaged in parallel world-building for two backlogs at once, in my free time I am creating modpacks and simple mods for these same modpacks, I am trying to promote my projects through conferences and various events related to my education.
 
 <br/>
 <div align="center">
@@ -260,28 +255,4 @@ Here are listed projects that are popular to varying degrees, have high activity
           <img src="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=Zustandfundamentalen&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=2&show_owner" />
         </picture>
     </a>
-</div>
-
-<br/>
-<div align="center">
-    <details>
-        <summary>
-            <!-- markdown-link-check-disable -->
-            <h4>
-            Wakatime activity
-            </h4>
-            <!-- markdown-link-check-enable -->
-        </summary>
-        <picture align="center">
-          <source
-            srcset="https://github-readme-stats-ysug.vercel.app/api/wakatime?username=Falcion&card_width=500px&theme=github_dark&show_icons=true&custom_title=Wakatime%20(last%20year):&hide_border=true"
-            media="(prefers-color-scheme: dark)"
-          />
-          <source
-            srcset="https://github-readme-stats-ysug.vercel.app/api/wakatime?username=Falcion&card_width=500&theme=github_light&show_icons=true&custom_title=Wakatime%20(last%20year):&hide_border=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          />
-          <img src="https://github-readme-stats-ysug.vercel.app/api/wakatime?username=Falcion&card_width=500&theme=ambient_gradient&show_icons=true&custom_title=Wakatime%20(last%20year):&hide_border=true" />
-        </picture>
-    </details>
 </div>
