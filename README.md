@@ -46,7 +46,7 @@ In parallel with this, I am interested in the development of environment tools a
 - CI/CD:
   - linters & formatters;
   - containers, images & clusters;
-  - deployments, trascompilers & builders;
+  - deployments, transcompilers & builders;
 - Forge API/Fabric API (MCP);
 
 #### Instruments
