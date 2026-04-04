@@ -145,15 +145,12 @@ And this is an additional list of tools that are not listed above:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 March 2026 - To: 02 April 2026
+From: 27 March 2026 - To: 03 April 2026
 
-Total Time: 4 hrs 42 mins
+Total Time: 6 hrs 9 mins
 
-Markdown     3 hrs 19 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀   70.72 %
-Other        58 mins               ⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.60 %
-JavaScript   21 mins               ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.50 %
-JSON         2 mins                ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.72 %
-Git Config   1 min                 ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.46 %
+Markdown   5 hrs 6 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀   82.97 %
+Other      1 hr 2 mins           ⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.03 %
 ```
 
 <!--END_SECTION:waka-->
