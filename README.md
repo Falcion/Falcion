@@ -101,14 +101,14 @@ And this is an additional list of tools that are not listed above:
 <div align="center">
     <picture align="left">
       <source
-        srcset="https://github-readme-stats-ysug.vercel.app/api?username=Falcion&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true"
+        srcset="https://github-stats-extended-delta.vercel.app/api?username=Falcion&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats-ysug.vercel.app/api?username=Falcion&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true"
+        srcset="https://github-stats-extended-delta.vercel.app/api?username=Falcion&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats-ysug.vercel.app/api?username=Falcion&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true" />
+      <img src="https://github-stats-extended-delta.vercel.app/api?username=Falcion&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true" />
     </picture>
     <br/>
     <picture align="right">
@@ -123,16 +123,19 @@ And this is an additional list of tools that are not listed above:
       <img src="https://github-readme-streak-stats-gray-six.vercel.app?user=Falcion&theme=ambient_gradient" />
     </picture>
     <br/>
+    <!-- Use https://trophygithubreadmelang.cybee.dpdns.org/ domain by Cyberbee-pro
+         Taken from: https://github.com/ryo-ma/github-profile-trophy 
+         Self-hosted variant (currently taken down): github-profile-trophy-three-psi.vercel.app -->
     <picture align="center">
       <source
-        srcset="https://github-profile-trophy.vercel.app/?username=Falcion&theme=darkhub&margin-w=4&margin-h=7&no-frame=true&no-bg=true&column=3"
+        srcset="https://trophygithubreadmelang.cybee.dpdns.org/?username=Falcion&theme=darkhub&margin-w=4&margin-h=7&no-frame=true&no-bg=true&column=3"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-profile-trophy.vercel.app/?username=Falcion&theme=flat&margin-w=4&margin-h=7&no-frame=true&no-bg=true&column=3"
+        srcset="https://trophygithubreadmelang.cybee.dpdns.org/?username=Falcion&theme=flat&margin-w=4&margin-h=7&no-frame=true&no-bg=true&column=3"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-profile-trophy.vercel.app/?username=Falcion&theme=darkhub&margin-w=4&margin-h=7&no-frame=true&no-bg=true&column=3" />
+      <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Falcion&theme=darkhub&margin-w=4&margin-h=7&no-frame=true&no-bg=true&column=3" />
     </picture>
 </div>
 
@@ -184,28 +187,28 @@ Here are listed projects that are popular to varying degrees, have high activity
     <a href="https://github.com/Falcion/UNITADE.md">
         <picture align="left">
           <source
-            srcset="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=UNITADE.md&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=2&show_owner"
+            srcset="https://github-stats-extended-delta.vercel.app/api/pin/?username=Falcion&repo=UNITADE.md&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=2&show_owner"
             media="(prefers-color-scheme: dark)"
           />
           <source
-            srcset="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=UNITADE.md&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=2&show_owner"
+            srcset="https://github-stats-extended-delta.vercel.app/api/pin/?username=Falcion&repo=UNITADE.md&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=2&show_owner"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img src="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=UNITADE.md&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=2&show_owner" />
+          <img src="https://github-stats-extended-delta.vercel.app/api/pin/?username=Falcion&repo=UNITADE.md&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=2&show_owner" />
         </picture>
     </a>
     <!-- WHISPERER.md -->
     <a href="https://github.com/Falcion/Whisperer.md">
         <picture align="left">
           <source
-            srcset="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=Whisperer.md&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=2&show_owner"
+            srcset="https://github-stats-extended-delta.vercel.app/api/pin/?username=Falcion&repo=Whisperer.md&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=2&show_owner"
             media="(prefers-color-scheme: dark)"
           />
           <source
-            srcset="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=Whisperer.md&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=2&show_owner"
+            srcset="https://github-stats-extended-delta.vercel.app/api/pin/?username=Falcion&repo=Whisperer.md&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=2&show_owner"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img src="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=Whisperer.md&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=2&show_owner" />
+          <img src="https://github-stats-extended-delta.vercel.app/api/pin/?username=Falcion&repo=Whisperer.md&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=2&show_owner" />
         </picture>
     </a>
     <br/>
@@ -213,28 +216,28 @@ Here are listed projects that are popular to varying degrees, have high activity
     <a href="https://github.com/Falcion/Zustandsmaschine">
         <picture align="left">
           <source
-            srcset="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=Zustandsmaschine&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=2&show_owner"
+            srcset="https://github-stats-extended-delta.vercel.app/api/pin/?username=Falcion&repo=Zustandsmaschine&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=2&show_owner"
             media="(prefers-color-scheme: dark)"
           />
           <source
-            srcset="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=Zustandsmaschine&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=2&show_owner"
+            srcset="https://github-stats-extended-delta.vercel.app/api/pin/?username=Falcion&repo=Zustandsmaschine&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=2&show_owner"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img src="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=Zustandsmaschine&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=2&show_owner" />
+          <img src="https://github-stats-extended-delta.vercel.app/api/pin/?username=Falcion&repo=Zustandsmaschine&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=2&show_owner" />
         </picture>
     </a>
     <!-- PATTERNUGIT -->
     <a href="https://github.com/Falcion/Patternugit">
         <picture align="left">
           <source
-            srcset="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=Patternugit&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=2&show_owner"
+            srcset="https://github-stats-extended-delta.vercel.app/api/pin/?username=Falcion&repo=Patternugit&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=2&show_owner"
             media="(prefers-color-scheme: dark)"
           />
           <source
-            srcset="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=Patternugit&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=2&show_owner"
+            srcset="https://github-stats-extended-delta.vercel.app/api/pin/?username=Falcion&repo=Patternugit&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=2&show_owner"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img src="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=Patternugit&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=2&show_owner" />
+          <img src="https://github-stats-extended-delta.vercel.app/api/pin/?username=Falcion&repo=Patternugit&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=2&show_owner" />
         </picture>
     </a>
     <br/>
@@ -242,14 +245,14 @@ Here are listed projects that are popular to varying degrees, have high activity
     <a href="https://github.com/Falcion/Zustandfundamentalen">
         <picture align="left">
           <source
-            srcset="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=Zustandfundamentalen&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=2&show_owner"
+            srcset="https://github-stats-extended-delta.vercel.app/api/pin/?username=Falcion&repo=Zustandfundamentalen&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=2&show_owner"
             media="(prefers-color-scheme: dark)"
           />
           <source
-            srcset="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=Zustandfundamentalen&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=2&show_owner"
+            srcset="https://github-stats-extended-delta.vercel.app/api/pin/?username=Falcion&repo=Zustandfundamentalen&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=2&show_owner"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img src="https://github-readme-stats-ysug.vercel.app/api/pin/?username=Falcion&repo=Zustandfundamentalen&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=2&show_owner" />
+          <img src="https://github-stats-extended-delta.vercel.app/api/pin/?username=Falcion&repo=Zustandfundamentalen&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=github_dark&custom_title=Recent%20activity%20(Falcion):&text_bold=true&card_width=500&hide_border=true&description_lines_count=2&show_owner" />
         </picture>
     </a>
 </div>
